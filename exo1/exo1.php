@@ -15,7 +15,6 @@ for ($i=1; $i < 5 ; $i++) {
 }
 ?>
 <?php
-    // Attention a tes espacements
 echo"methode 2";
 for ($i=1; $i < 5 ; $i++) { 
 ?>
